@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Proyectos/UT-HUB/Segundo/Audio/MetaSounds/Content/00_Audio/MetaSounds/MS_.uasset",
+				"C:/Proyectos/UT-HUB/Segundo/Audio/MetaSounds/Content/00_Audio/MetaSounds/MS_Demo1.uasset",
+				"C:/Proyectos/UT-HUB/Segundo/Audio/MetaSounds/Content/00_Audio/MetaSounds/hotel-bell-ding-5-202589.uasset",
+				"C:/Proyectos/UT-HUB/Segundo/Audio/MetaSounds/Content/00_Audio/MetaSounds/NewSoundCue.uasset"
+			]
+		}
+	]
+}
